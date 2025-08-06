@@ -1,0 +1,14 @@
+
+Stack is a linear data structure that follows a perticular order in which operations are performed.
+This order is termed as 'LIFO' (Last in first out).
+
+* Basic operations on Stack:-
+1.isEmpty
+2.Push
+3.Pop
+4.Peek
+
+* Implementation of stacks :-
+1. Arrays 
+2. Arraylist
+3. LinkedList
